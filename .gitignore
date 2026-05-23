@@ -1,0 +1,23 @@
+# ── Python ───────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+
+# ── Data (too large for git) ─────────────
+data/events.csv
+outputs/events_cleaned.csv
+outputs/user_segments.csv
+
+# ── Reports & PDFs (submitted separately)
+reports/
+src/report.py
+
+# ── OS & editor clutter ──────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

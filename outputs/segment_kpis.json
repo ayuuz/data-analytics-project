@@ -1,0 +1,26 @@
+{
+  "Viewer Only": {
+    "user_count": 369083,
+    "pct_of_users": 90.6,
+    "total_revenue": 0.0,
+    "avg_revenue": 0.0
+  },
+  "Cart Abandoner": {
+    "user_count": 16896,
+    "pct_of_users": 4.1,
+    "total_revenue": 0.0,
+    "avg_revenue": 0.0
+  },
+  "Purchaser": {
+    "user_count": 13598,
+    "pct_of_users": 3.3,
+    "total_revenue": 1855570.45,
+    "avg_revenue": 136.46
+  },
+  "Repeat Buyer": {
+    "user_count": 7706,
+    "pct_of_users": 1.9,
+    "total_revenue": 3269543.47,
+    "avg_revenue": 424.29
+  }
+}

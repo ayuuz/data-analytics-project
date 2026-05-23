@@ -1,0 +1,11 @@
+{
+  "total_views": 793099,
+  "total_carts": 54032,
+  "total_purchases": 37343,
+  "view_to_cart_pct": 6.81,
+  "cart_to_purchase_pct": 69.11,
+  "overall_conversion_pct": 4.71,
+  "user_view_to_cart_pct": 9.08,
+  "user_overall_conv_pct": 5.13,
+  "cart_abandonment_rate": 30.89
+}

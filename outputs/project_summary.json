@@ -1,0 +1,93 @@
+{
+  "kpis": {
+    "total_revenue_usd": 5125113.92,
+    "total_purchases": 37343,
+    "unique_buyers": 21304,
+    "avg_order_value_usd": 137.24,
+    "overall_conversion_pct": 4.71,
+    "cart_abandonment_rate_pct": 30.9,
+    "view_to_cart_pct": 6.81,
+    "cart_to_purchase_pct": 69.11,
+    "total_unique_users": 407283,
+    "date_range": "2020-09-24 to 2021-02-28"
+  },
+  "top_brands_by_purchases": {
+    "msi": 1788,
+    "gigabyte": 1741,
+    "asus": 1261,
+    "palit": 1077,
+    "canon": 1045
+  },
+  "top_brands_by_revenue": {
+    "msi": 643492.34,
+    "gigabyte": 556183.04,
+    "palit": 484210.58,
+    "asus": 330147.11,
+    "sapphire": 306192.94
+  },
+  "top_categories_by_purchases": {
+    "computers": 16870,
+    "electronics": 6768,
+    "stationery": 2919,
+    "auto": 1091,
+    "construction": 999
+  },
+  "top_categories_by_revenue": {
+    "computers": 3728835.55,
+    "electronics": 450348.57,
+    "auto": 117312.54000000001,
+    "stationery": 109670.38,
+    "construction": 108682.4
+  },
+  "segments": {
+    "Viewer Only": {
+      "user_count": 369083,
+      "pct_of_users": 90.6,
+      "total_revenue": 0.0,
+      "avg_revenue": 0.0
+    },
+    "Cart Abandoner": {
+      "user_count": 16896,
+      "pct_of_users": 4.1,
+      "total_revenue": 0.0,
+      "avg_revenue": 0.0
+    },
+    "Purchaser": {
+      "user_count": 13598,
+      "pct_of_users": 3.3,
+      "total_revenue": 1855570.45,
+      "avg_revenue": 136.46
+    },
+    "Repeat Buyer": {
+      "user_count": 7706,
+      "pct_of_users": 1.9,
+      "total_revenue": 3269543.47,
+      "avg_revenue": 424.29
+    }
+  },
+  "funnel": {
+    "total_views": 793099,
+    "total_carts": 54032,
+    "total_purchases": 37343,
+    "view_to_cart_pct": 6.81,
+    "cart_to_purchase_pct": 69.11,
+    "overall_conversion_pct": 4.71,
+    "user_view_to_cart_pct": 9.08,
+    "user_overall_conversion_pct": 5.13,
+    "cart_abandonment_rate": 30.89
+  },
+  "cleaning": {
+    "raw_rows": 885129,
+    "clean_rows": 884474,
+    "duplicates_removed": 655,
+    "missing_brand_filled": 212232,
+    "missing_category_filled": 236047,
+    "date_range_start": "2020-09-24",
+    "date_range_end": "2021-02-28",
+    "unique_users": 407283,
+    "unique_products": 53453,
+    "total_views": 793099,
+    "total_carts": 54032,
+    "total_purchases": 37343
+  }
+}

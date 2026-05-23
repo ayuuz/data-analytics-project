@@ -1,0 +1,14 @@
+{
+  "raw_rows": 885129,
+  "clean_rows": 884474,
+  "duplicates_removed": 655,
+  "missing_brand_filled": 212232,
+  "missing_category_filled": 236047,
+  "date_range_start": "2020-09-24",
+  "date_range_end": "2021-02-28",
+  "unique_users": 407283,
+  "unique_products": 53453,
+  "total_views": 793099,
+  "total_carts": 54032,
+  "total_purchases": 37343
+}
